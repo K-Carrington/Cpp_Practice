@@ -1,1 +1,3 @@
 # Cpp_Practice
+This is a repository for some of my C++ practice programs. 
+More sub directories are to come...
